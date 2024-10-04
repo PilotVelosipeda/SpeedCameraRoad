@@ -29,5 +29,6 @@ public class Main {
         } else {
             System.out.println("Скорость не превышена :) ");
         }
+
     }
 }
